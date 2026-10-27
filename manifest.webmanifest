@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Wochenzettel – Essensplaner",
+  "short_name": "Wochenzettel",
+  "description": "Plane deine Woche und behalte Einkauf und Budget im Blick.",
+  "lang": "de",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff3e4",
+  "theme_color": "#fff3e4",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
